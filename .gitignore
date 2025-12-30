@@ -1,18 +1,10 @@
+# Exclude all files by default
+*
+
+# But include these specific files
+!.gitignore
+!README.md
+!update.ino.bin
+
 # Build artifacts
 build/
-
-# Temporary files
-*.tmp
-*.bak
-*~
-
-# IDE files
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Keep update.ino.bin for OTA updates
-!update.ino.bin
