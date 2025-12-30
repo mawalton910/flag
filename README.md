@@ -1,5 +1,5 @@
 # Guru Games - Flag Capture System
-**Current Version**: Flag v25.1.0
+**Current Version**: Unknown
 
 A territory control and flag capture system built on the ESP32 Dev Module (WROOM) for dynamic faction-based gameplay in live-action role-playing events.
 
